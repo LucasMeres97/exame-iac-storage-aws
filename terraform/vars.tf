@@ -1,7 +1,7 @@
 # VARS
 
 variable "bucket_name" {
-  default = "testeprova"
+  default = "vambora"
 }
 
 variable "website_endpoint" {
