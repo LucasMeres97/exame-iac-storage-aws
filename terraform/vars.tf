@@ -1,7 +1,7 @@
 # VARS
 
 variable "bucket_name" {
-  default = "bucketlcs1"
+  default = "bucketlcs2"
 }
 
 variable "website_endpoint" {
