@@ -1,7 +1,7 @@
 # VARS
 
 variable "bucket_name" {
-  default = "vambora"
+  default = "bucketkledin"
 }
 
 variable "website_endpoint" {
