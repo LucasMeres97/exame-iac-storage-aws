@@ -70,3 +70,4 @@ resource "aws_s3_object" "bucket-objects" {
   etag         = md5(file("../app/${each.value}"))
 }
 
+
