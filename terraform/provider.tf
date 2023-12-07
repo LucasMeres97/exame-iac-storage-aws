@@ -26,5 +26,3 @@ provider "aws" {
   # profile                  = "fiap"
 }
 
-
-#a
